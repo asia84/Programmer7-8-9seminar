@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task51_сумма_главной_диагонали_массива/1.0.0": {
+        "runtime": {
+          "task51_сумма_главной_диагонали_массива.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task51_сумма_главной_диагонали_массива/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
