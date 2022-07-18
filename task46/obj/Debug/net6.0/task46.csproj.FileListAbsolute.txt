@@ -1,0 +1,15 @@
+E:\Программирование\Прогр.сем.7\task46\bin\Debug\net6.0\task46.exe
+E:\Программирование\Прогр.сем.7\task46\bin\Debug\net6.0\task46.deps.json
+E:\Программирование\Прогр.сем.7\task46\bin\Debug\net6.0\task46.runtimeconfig.json
+E:\Программирование\Прогр.сем.7\task46\bin\Debug\net6.0\task46.dll
+E:\Программирование\Прогр.сем.7\task46\bin\Debug\net6.0\task46.pdb
+E:\Программирование\Прогр.сем.7\task46\obj\Debug\net6.0\task46.csproj.AssemblyReference.cache
+E:\Программирование\Прогр.сем.7\task46\obj\Debug\net6.0\task46.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\Прогр.сем.7\task46\obj\Debug\net6.0\task46.AssemblyInfoInputs.cache
+E:\Программирование\Прогр.сем.7\task46\obj\Debug\net6.0\task46.AssemblyInfo.cs
+E:\Программирование\Прогр.сем.7\task46\obj\Debug\net6.0\task46.csproj.CoreCompileInputs.cache
+E:\Программирование\Прогр.сем.7\task46\obj\Debug\net6.0\task46.dll
+E:\Программирование\Прогр.сем.7\task46\obj\Debug\net6.0\refint\task46.dll
+E:\Программирование\Прогр.сем.7\task46\obj\Debug\net6.0\task46.pdb
+E:\Программирование\Прогр.сем.7\task46\obj\Debug\net6.0\task46.genruntimeconfig.cache
+E:\Программирование\Прогр.сем.7\task46\obj\Debug\net6.0\ref\task46.dll
