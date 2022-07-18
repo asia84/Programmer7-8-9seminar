@@ -1,0 +1,15 @@
+E:\Программирование\Прогр.сем.7\task47_двумерный_массив_m_n\obj\Debug\net6.0\task47_двумерный_массив_m_n.csproj.AssemblyReference.cache
+E:\Программирование\Прогр.сем.7\task47_двумерный_массив_m_n\obj\Debug\net6.0\task47_двумерный_массив_m_n.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\Прогр.сем.7\task47_двумерный_массив_m_n\obj\Debug\net6.0\task47_двумерный_массив_m_n.AssemblyInfoInputs.cache
+E:\Программирование\Прогр.сем.7\task47_двумерный_массив_m_n\obj\Debug\net6.0\task47_двумерный_массив_m_n.AssemblyInfo.cs
+E:\Программирование\Прогр.сем.7\task47_двумерный_массив_m_n\obj\Debug\net6.0\task47_двумерный_массив_m_n.csproj.CoreCompileInputs.cache
+E:\Программирование\Прогр.сем.7\task47_двумерный_массив_m_n\bin\Debug\net6.0\task47_двумерный_массив_m_n.exe
+E:\Программирование\Прогр.сем.7\task47_двумерный_массив_m_n\bin\Debug\net6.0\task47_двумерный_массив_m_n.deps.json
+E:\Программирование\Прогр.сем.7\task47_двумерный_массив_m_n\bin\Debug\net6.0\task47_двумерный_массив_m_n.runtimeconfig.json
+E:\Программирование\Прогр.сем.7\task47_двумерный_массив_m_n\bin\Debug\net6.0\task47_двумерный_массив_m_n.dll
+E:\Программирование\Прогр.сем.7\task47_двумерный_массив_m_n\bin\Debug\net6.0\task47_двумерный_массив_m_n.pdb
+E:\Программирование\Прогр.сем.7\task47_двумерный_массив_m_n\obj\Debug\net6.0\task47_двумерный_массив_m_n.dll
+E:\Программирование\Прогр.сем.7\task47_двумерный_массив_m_n\obj\Debug\net6.0\refint\task47_двумерный_массив_m_n.dll
+E:\Программирование\Прогр.сем.7\task47_двумерный_массив_m_n\obj\Debug\net6.0\task47_двумерный_массив_m_n.pdb
+E:\Программирование\Прогр.сем.7\task47_двумерный_массив_m_n\obj\Debug\net6.0\task47_двумерный_массив_m_n.genruntimeconfig.cache
+E:\Программирование\Прогр.сем.7\task47_двумерный_массив_m_n\obj\Debug\net6.0\ref\task47_двумерный_массив_m_n.dll
