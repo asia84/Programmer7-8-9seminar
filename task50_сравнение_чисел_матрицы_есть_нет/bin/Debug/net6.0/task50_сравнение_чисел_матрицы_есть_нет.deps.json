@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task50_сравнение_чисел_матрицы_есть_нет/1.0.0": {
+        "runtime": {
+          "task50_сравнение_чисел_матрицы_есть_нет.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task50_сравнение_чисел_матрицы_есть_нет/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
