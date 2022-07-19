@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task52_среднеарифметическое_в_столбце_двухмерной_матрицы/1.0.0": {
+        "runtime": {
+          "task52_среднеарифметическое_в_столбце_двухмерной_матрицы.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task52_среднеарифметическое_в_столбце_двухмерной_матрицы/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
