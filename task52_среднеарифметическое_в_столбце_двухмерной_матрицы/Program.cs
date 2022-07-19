@@ -35,10 +35,10 @@ int[, ] TwoMatrix(int[, ] matrix)
 void AvgMatrix(int[, ] matrix)
 {
     Console.WriteLine();
-    for (int i = 0; i < matrix.GetLength(0); i++)
+    for (int i = 0; i < matrix.GetLength(1); i++)
     {
         double avg = 0;
-        for(int j = 0; j < matrix.GetLength(1); j++)
+        for(int j = 0; j < matrix.GetLength(0); j++)
         {
             avg = avg + matrix[j, i];
         }
@@ -46,6 +46,6 @@ void AvgMatrix(int[, ] matrix)
     }
 }
 
-int[, ] matrix = new int[4, 4];
+int[, ] matrix = new int[5, 4];
 matrix = TwoMatrix(matrix);
 AvgMatrix(matrix);
