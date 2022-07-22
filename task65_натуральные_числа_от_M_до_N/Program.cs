@@ -6,12 +6,12 @@ M = 4; N = 8 -> "4, 6, 7, 8"
 */
 int n = 20;
 int m = 10;
-void f(int n)
+void f(int n, int m)
 {
     if(n != (m-1))
     {
-        f(n - 1);
+        f(n - 1, m);
         Console.Write(n + " ");
     }
 }
-f(n);
+f(n,m);
