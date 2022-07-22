@@ -34,7 +34,7 @@ void PrintMatr(int[, ] matrix)
     {
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
-            if (i ==j )
+            if (i == j )
              //if ((i+1) % 2 == 0 && (j+1) % 2 == 0) Если надо пройтись по четным позициям индекса и вывести квадраты этих чисел
                 DiagonSum = DiagonSum + matrix[i, j];
         }
