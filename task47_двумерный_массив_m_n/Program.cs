@@ -17,7 +17,7 @@ for (int i = 0; i < 3; i++)
     for (int j = 0; j < 4; j++)
     {
         a[i, j] = random.NextDouble() * 100; // NextDouble() дает случайное вещественное число в диапазоне от 0 до 1
-        Console.Write("{0,6:F2}", a[i, j]);
+        Console.Write("{0,6:F2}\t", a[i, j]);//f2 - кол-во знаков после запятой, 0,6 - если больше то округляется в левую сторону
     }
     Console.WriteLine();
 }
