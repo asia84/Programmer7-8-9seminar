@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task67_вход_число_выход_сумма_его_цифр/1.0.0": {
+        "runtime": {
+          "task67_вход_число_выход_сумма_его_цифр.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task67_вход_число_выход_сумма_его_цифр/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
