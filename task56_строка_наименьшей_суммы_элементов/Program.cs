@@ -19,8 +19,8 @@ int[, ] TwoMatrix(int[, ] matrix)
         for (int j = 0; j < matrix.GetLength(1); j++)
         {
         //int x = Convert.ToInt32(Console.ReadLine());
-        int x = new Random().Next(1, 100);
-        matrix[i , j] = x;
+            int x = new Random().Next(1, 100);
+            matrix[i , j] = x;
         }
     }
     for (int i = 0; i < matrix.GetLength(0); i++)
