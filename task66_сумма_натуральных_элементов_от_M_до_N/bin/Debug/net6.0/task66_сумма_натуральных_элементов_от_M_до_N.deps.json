@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task66_сумма_натуральных_элементов_от_M_до_N/1.0.0": {
+        "runtime": {
+          "task66_сумма_натуральных_элементов_от_M_до_N.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task66_сумма_натуральных_элементов_от_M_до_N/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
