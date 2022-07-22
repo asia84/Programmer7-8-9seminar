@@ -1,0 +1,15 @@
+E:\Программирование\Прогр.сем.7\task62_спираль_массив\bin\Debug\net6.0\task62_спираль_массив.exe
+E:\Программирование\Прогр.сем.7\task62_спираль_массив\bin\Debug\net6.0\task62_спираль_массив.deps.json
+E:\Программирование\Прогр.сем.7\task62_спираль_массив\bin\Debug\net6.0\task62_спираль_массив.runtimeconfig.json
+E:\Программирование\Прогр.сем.7\task62_спираль_массив\bin\Debug\net6.0\task62_спираль_массив.dll
+E:\Программирование\Прогр.сем.7\task62_спираль_массив\bin\Debug\net6.0\task62_спираль_массив.pdb
+E:\Программирование\Прогр.сем.7\task62_спираль_массив\obj\Debug\net6.0\task62_спираль_массив.csproj.AssemblyReference.cache
+E:\Программирование\Прогр.сем.7\task62_спираль_массив\obj\Debug\net6.0\task62_спираль_массив.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\Прогр.сем.7\task62_спираль_массив\obj\Debug\net6.0\task62_спираль_массив.AssemblyInfoInputs.cache
+E:\Программирование\Прогр.сем.7\task62_спираль_массив\obj\Debug\net6.0\task62_спираль_массив.AssemblyInfo.cs
+E:\Программирование\Прогр.сем.7\task62_спираль_массив\obj\Debug\net6.0\task62_спираль_массив.csproj.CoreCompileInputs.cache
+E:\Программирование\Прогр.сем.7\task62_спираль_массив\obj\Debug\net6.0\task62_спираль_массив.dll
+E:\Программирование\Прогр.сем.7\task62_спираль_массив\obj\Debug\net6.0\refint\task62_спираль_массив.dll
+E:\Программирование\Прогр.сем.7\task62_спираль_массив\obj\Debug\net6.0\task62_спираль_массив.pdb
+E:\Программирование\Прогр.сем.7\task62_спираль_массив\obj\Debug\net6.0\task62_спираль_массив.genruntimeconfig.cache
+E:\Программирование\Прогр.сем.7\task62_спираль_массив\obj\Debug\net6.0\ref\task62_спираль_массив.dll
