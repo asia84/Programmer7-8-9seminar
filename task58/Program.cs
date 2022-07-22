@@ -44,6 +44,7 @@ int[,] SecondArray(int m, int n)
         }
         Console.WriteLine();
     }
+    Console.WriteLine();
     return matrix2;
 }
 
