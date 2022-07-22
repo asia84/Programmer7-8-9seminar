@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task69_возведение_числа_A_в_B_степень/1.0.0": {
+        "runtime": {
+          "task69_возведение_числа_A_в_B_степень.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task69_возведение_числа_A_в_B_степень/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
